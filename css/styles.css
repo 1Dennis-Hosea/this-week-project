@@ -15,3 +15,6 @@ h1 {
   font-family: monospace;
   font-style: italic;
 }
+.form-group input{
+  width: 300px;
+}
