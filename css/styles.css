@@ -5,3 +5,7 @@ body {
   font-size: 20px;
   font-color; red;
 }
+section {
+  display: flex;
+  justify-content: space-around;
+}
